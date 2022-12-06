@@ -6,5 +6,5 @@ A bloom filter is a probabilistic data structure that is used to test whether an
 ![image](https://user-images.githubusercontent.com/85553852/205939426-ac21bf04-5571-48a2-b57b-d51a431b750f.png)  
 As we can see from the graph above, the false positive rate will decrease as the number of hash functions, k, is increased. However, a high value of k can also slow down our bloom filter.
 ## References
-- Concept: https://medium.com/system-design-blog/bloom-filter-a-probabilistic-data-structure-12e4e5cf0638
-- Code: https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/
+- https://medium.com/system-design-blog/bloom-filter-a-probabilistic-data-structure-12e4e5cf0638
+- https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/
